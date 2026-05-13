@@ -162,4 +162,3 @@ Plataforma de automação e IA aplicada a processos.
 <img src="https://komarev.com/ghpvc/?username=vinmedrado&color=58A6FF&style=for-the-badge"/>
 
 </div>
-
