@@ -1,14 +1,12 @@
 <div align="center">
 
-# Vinicius Medrado
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Sistemas+de+IA+%26+Automa%C3%A7%C3%A3o;Engenharia+de+Dados+%26+Machine+Learning;Construindo+Plataformas+SaaS+com+IA;Python+%E2%80%A2+FastAPI+%E2%80%A2+SQL+%E2%80%A2+ML" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:2563EB&text=VINICIUS%20MEDRADO&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20•%20Automation%20•%20Data%20Engineering%20•%20SaaS%20Builder&descAlignY=58"/>
 
 <br>
 
-### IA • Automação • Engenharia de Dados • SaaS Builder
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Construindo+plataformas+SaaS+com+IA;Automação+%26+Engenharia+de+Dados;Python+%E2%80%A2+FastAPI+%E2%80%A2+Machine+Learning;Sistemas+escal%C3%A1veis+e+orientados+por+dados" />
 
-<br>
+<br><br>
 
 <a href="https://linkedin.com/in/viniciusmedrado">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,41 +17,47 @@
 </a>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+# 👨‍💻 Sobre Mim
 
 ```python
 class ViniciusMedrado:
 
     def __init__(self):
-        self.cargo = "Engenharia de IA & Automação"
 
-        self.especialidades = [
+        self.role = "AI Systems & Automation Engineer"
+
+        self.specialties = [
             "Automação",
             "Engenharia de Dados",
             "Machine Learning",
             "FastAPI",
-            "Pipelines ETL",
-            "Plataformas SaaS",
-            "Sistemas em Python"
+            "ETL Pipelines",
+            "Sistemas SaaS",
+            "Arquitetura Backend",
+            "Python Systems"
         ]
 
-        self.foco_atual = [
-            "SaaS com IA",
+        self.current_focus = [
+            "AI-powered SaaS",
             "Sistemas escaláveis",
-            "Pipelines de ML",
-            "Plataformas de dados"
+            "Plataformas de dados",
+            "ML Pipelines",
+            "Automation Systems"
         ]
 
-    def objetivo(self):
-        return "Transformar ideias em sistemas inteligentes e escaláveis."
+    def philosophy(self):
+        return "Transformando ideias em sistemas inteligentes."
 ```
 
 ---
@@ -62,7 +66,7 @@ class ViniciusMedrado:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,git,github,vscode,sqlite,mysql,linux,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,git,github,vscode,mysql,sqlite,linux,html,css,js" />
 
 </div>
 
@@ -70,52 +74,85 @@ class ViniciusMedrado:
 
 # 🚀 Projetos em Destaque
 
-## ⚽ MatchFlow AI
-Plataforma de análise esportiva, automação e predições com IA.
+<table>
+<tr>
+<td width="50%">
 
-### Principais recursos
-- Pipeline de Machine Learning
-- Backtesting
+## ⚽ MatchFlow AI
+
+Plataforma de análise esportiva e predições com IA.
+
+### Features
+- Machine Learning Pipeline
 - Decision Engine
-- Simulação Paper Trading
-- Backend FastAPI
-- Frontend React
+- Backtesting
+- FastAPI Backend
+- React Frontend
+- Paper Trading
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/0D1117/58A6FF?text=MatchFlow+AI"/>
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## 💍 Lumyra
-Plataforma moderna de gestão de eventos e experiência para convidados.
 
-### Principais recursos
-- Mapa interativo de mesas
+Plataforma moderna de gestão de eventos.
+
+### Features
+- Mapa interativo
 - Gestão de convidados
 - Arquitetura SaaS
-- Integrações WhatsApp
-- Gestão financeira
+- Integração WhatsApp
 - Painéis administrativos
 
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/0D1117/F472B6?text=Lumyra"/>
+
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## 📈 Vinance AI
+
 Plataforma de inteligência financeira com IA.
 
-### Principais recursos
+### Features
 - Analytics financeiros
-- Copiloto inteligente
-- Automações
-- Insights estratégicos
-- Recomendações inteligentes
+- AI Copilot
+- Insights inteligentes
+- Automação
+- Estratégias financeiras
 
----
+</td>
 
-## 🤖 Applymize
-Plataforma de automação e IA aplicada a processos.
+<td width="50%">
 
-### Principais recursos
-- Workflows inteligentes
-- Sistemas automatizados
-- Integrações IA
-- Arquitetura SaaS moderna
+<img src="https://placehold.co/600x350/0D1117/F59E0B?text=Vinance+AI"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -129,13 +166,21 @@ Plataforma de automação e IA aplicada a processos.
 
 </div>
 
----
-
-# 📈 Atividade
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinmedrado&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinmedrado&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinmedrado&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -143,17 +188,24 @@ Plataforma de automação e IA aplicada a processos.
 
 # 🎯 Foco Atual
 
-🚀 Construção de plataformas SaaS com IA  
-⚡ Automação & Engenharia de Dados  
-🧠 Sistemas de Machine Learning  
-📊 Plataformas inteligentes de análise  
-🏗️ Arquiteturas backend modernas  
+```yaml
+AI Systems:
+  - Plataformas SaaS com IA
+  - Sistemas escaláveis
+  - Engenharia de automação
+  - Machine Learning aplicado
+  - Arquitetura moderna backend
+```
 
 ---
 
 # 💡 Filosofia
 
-> “Grandes sistemas são construídos através de automação, escalabilidade e decisões inteligentes.”
+<div align="center">
+
+### “Grandes sistemas são construídos através de automação, escalabilidade e inteligência.”
+
+</div>
 
 ---
 
@@ -162,3 +214,5 @@ Plataforma de automação e IA aplicada a processos.
 <img src="https://komarev.com/ghpvc/?username=vinmedrado&color=58A6FF&style=for-the-badge"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB"/>
