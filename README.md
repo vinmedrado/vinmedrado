@@ -116,7 +116,11 @@ Plataforma de análise esportiva, automação e predições com IA.
 
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/vinmedrado/matchflow-ai/main/screenshots/decision-engine.png"/>
+<p align="center">
+  <a href="https://github.com/vinmedrado/matchflow-ai">
+    <img src="https://img.shields.io/badge/ABRIR%20REPOSITÓRIO-111827?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+  </a>
+</p>
 
 </td>
 </tr>
