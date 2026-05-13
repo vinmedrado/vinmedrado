@@ -116,7 +116,7 @@ Plataforma de análise esportiva, automação e predições com IA.
 
 <td width="50%">
 
-<img src="https://placehold.co/700x390/020617/38BDF8?text=MatchFlow+AI"/>
+<img src="https://raw.githubusercontent.com/vinmedrado/matchflow-ai/main/screenshots/decision-engine.png"/>
 
 </td>
 </tr>
