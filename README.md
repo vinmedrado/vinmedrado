@@ -1,16 +1,27 @@
-## Hi there 👋
+# Vinicius Medrado
 
-<!--
-**vinmedrado/vinmedrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems • Automation • Data Engineering • SaaS Builder
 
-Here are some ideas to get you started:
+Building AI-powered SaaS platforms, automation systems and data solutions with Python, FastAPI and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+Python • FastAPI • React • SQL • Docker • PostgreSQL • Power BI • Machine Learning
+
+---
+
+## Featured Projects
+
+### MatchFlow
+AI-powered football analytics and prediction platform.
+
+### Lumyra
+Modern Event Operations Platform.
+
+### Vinance
+Financial intelligence and AI advisory platform.
+
+### Applymize
+AI-powered hiring and automation system.
