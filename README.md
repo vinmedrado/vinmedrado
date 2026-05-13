@@ -210,7 +210,7 @@ Plataforma de inteligência financeira com IA, analytics e automação.
 
 </div>
 
-> Para a cobrinha funcionar, precisa adicionar um GitHub Action no repositório do perfil. Se ainda não configurar, essa parte pode aparecer quebrada.
+
 
 ---
 
