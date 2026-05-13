@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Construindo+plataformas+SaaS+com+IA;Automação+%26+Engenharia+de+Dados;Python+%E2%80%A2+FastAPI+%E2%80%A2+Machine+Learning;Sistemas+escal%C3%A1veis+e+orientados+por+dados" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Construindo+plataformas+SaaS+com+IA;Automação+%26+Engenharia+de+Dados;Python+•+FastAPI+•+Machine+Learning;Sistemas+escaláveis+e+orientados+por+dados" />
 
 <br><br>
 
