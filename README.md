@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&random=false&width=1000&lines=Construindo+plataformas+SaaS+com+IA;Automação+%2B+Dados+%2B+Machine+Learning;Python+•+FastAPI+•+SQL+•+React;Transformando+ideias+em+sistemas+inteligentes;Data+Engineering+%7C+AI+Systems+%7C+Automation" alt="Typing animation" />
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="420"/>
 
 <br><br>
 
