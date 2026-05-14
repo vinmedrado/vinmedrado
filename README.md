@@ -117,7 +117,7 @@ Plataforma de análise esportiva, automação e predições com IA.
 <td width="50%">
 
 <p align="center">
-  <img src="screenshots/matchflow-dark-logo.PNG" width="700"/>
+  <img src="./screenshots/matchflow-dark-logo.PNG" width="700"/>
 </p>
 
 <p align="center">
