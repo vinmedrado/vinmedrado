@@ -86,16 +86,17 @@ Construo produtos e automacoes que reduzem friccao operacional e deixam a tomada
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,postgres,docker,git,github" alt="Tecnologias" />
 </div>
 
-## Snake
-
-<div align="center">
-  <img alt="Github contribution snake" src="https://raw.githubusercontent.com/vinmedrado/vinmedrado/output/github-contribution-grid-snake.svg" />
-</div>
-
 ## Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/viniciusmedrado">LinkedIn</a> |
   <a href="mailto:medrado.jobs@gmail.com">E-mail</a> |
   <a href="https://github.com/vinmedrado?tab=repositories">Repositorios</a>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinmedrado/vinmedrado/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Github contribution snake" src="https://raw.githubusercontent.com/vinmedrado/vinmedrado/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
