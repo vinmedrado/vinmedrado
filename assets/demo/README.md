@@ -1,6 +1,6 @@
 # Demo assets
 
-Este diretório existe para organizar GIFs curtos de demonstração dos projetos.
+Este diretório documenta o padrao de gravacao dos GIFs curtos de demonstracao.
 
 Padrão de nomes sugerido:
 
@@ -69,8 +69,8 @@ Roteiro sugerido por projeto:
 3. Abrir um projeto externo.
 4. Encerrar com contato / CTA.
 
-TODO:
+Os GIFs finais ficam em cada repositório de projeto, em `assets/demo/demo.gif`.
 
-- gerar os GIFs finais;
-- compactar e renomear cada arquivo;
-- atualizar os READMEs com links diretos para os GIFs.
+O gerador local fica em `scripts/generate_demo_gifs.py`.
+
+Se um projeto novo nascer, grave o GIF seguindo o mesmo padrao.

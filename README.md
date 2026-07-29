@@ -109,6 +109,23 @@ Sou engenheiro de software com foco em dados, automacao e produtos SaaS. Trabalh
   </tr>
 </table>
 
+## Demonstracoes
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vinmedrado/marketplace-seller-platform">
+        <img src="https://raw.githubusercontent.com/vinmedrado/marketplace-seller-platform/main/assets/demo/demo.gif" alt="Marketplace Seller Platform demo" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vinmedrado/applymize">
+        <img src="https://raw.githubusercontent.com/vinmedrado/applymize/main/assets/demo/demo.gif" alt="Applymize demo" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Capacidade tecnica
 
 <div align="center">
