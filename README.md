@@ -7,6 +7,9 @@
 <a href="https://www.linkedin.com/in/viniciusmedrado">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://vinmedrado.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 <a href="mailto:medrado.jobs@gmail.com">
   <img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
