@@ -1,0 +1,42 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Meu Carro Vale</title>
+  <desc id="desc">Dados, busca inteligente e precificacao para avaliacao rapida.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="55%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#b45309" />
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="25%" r="70%">
+      <stop offset="0%" stop-color="#fde68a" stop-opacity="0.24" />
+      <stop offset="100%" stop-color="#fde68a" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="675" rx="32" fill="url(#bg)" />
+  <circle cx="980" cy="104" r="180" fill="#fde68a" opacity="0.16" />
+  <circle cx="822" cy="374" r="250" fill="#b45309" opacity="0.18" />
+  <rect x="28" y="28" width="1144" height="619" rx="28" fill="none" stroke="#1f2937" stroke-width="2" />
+  <rect x="52" y="52" width="1096" height="571" rx="24" fill="url(#glow)" />
+
+  <text x="72" y="102" fill="#94a3b8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">06 / 06</text>
+  <text x="72" y="188" fill="#ffffff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800">Meu Carro Vale</text>
+  <text x="72" y="238" fill="#dbeafe" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="600">Valuation automotivo</text>
+  <text x="72" y="284" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="500">Dados, busca inteligente e precificacao para avaliacao rapida.</text>
+
+  <rect x="72" y="336" width="164" height="42" rx="21" fill="#0b1220" stroke="#b45309" stroke-width="1.5" />
+  <text x="154" y="363" fill="#f8fafc" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">Featured work</text>
+
+    <rect x="660" y="104" width="480" height="328" rx="30" fill="#020617" opacity="0.78" stroke="#1f2937" />
+    <rect x="686" y="130" width="428" height="276" rx="22" fill="#0b1220" stroke="#b45309" stroke-width="1.5" />
+    <image href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDIwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDQyMCAxMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjQyMCIgaGVpZ2h0PSIxMjAiIHJ4PSIyOCIgZmlsbD0iIzA5MEEwQiIvPgogIDxyZWN0IHg9IjI0IiB5PSIyNCIgd2lkdGg9IjcyIiBoZWlnaHQ9IjcyIiByeD0iMjAiIGZpbGw9InVybCgjZykiLz4KICA8cGF0aCBkPSJNMzggNjhjMy0xMiAxMC0yMCAyMS0yNGgxNGMxMSA0IDE4IDEyIDIxIDI0IiBzdHJva2U9IiMwOTBBMEIiIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTQ3IDcwaDM4IiBzdHJva2U9IiMwOTBBMEIiIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPGNpcmNsZSBjeD0iNTAiIGN5PSI3OCIgcj0iNCIgZmlsbD0iIzA5MEEwQiIvPjxjaXJjbGUgY3g9IjgyIiBjeT0iNzgiIHI9IjQiIGZpbGw9IiMwOTBBMEIiLz4KICA8dGV4dCB4PSIxMTYiIHk9IjU2IiBmaWxsPSIjRjRGMUVBIiBmb250LWZhbWlseT0iSW50ZXIsQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjgwMCI+TWV1IENhcnJvIFZhbGU8L3RleHQ+CiAgPHRleHQgeD0iMTE4IiB5PSI4MiIgZmlsbD0iI0Q3QjU2RCIgZm9udC1mYW1pbHk9IkludGVyLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSI3MDAiIGxldHRlci1zcGFjaW5nPSIzIj5JTlRFTElHw4pOQ0lBIEFVVE9NT1RJVkE8L3RleHQ+CiAgPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMjQiIHkxPSIyNCIgeDI9Ijk2IiB5Mj0iOTYiPjxzdG9wIHN0b3AtY29sb3I9IiNGNEYxRUEiLz48c3RvcCBvZmZzZXQ9Ii41OCIgc3RvcC1jb2xvcj0iI0Q3QjU2RCIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0E4ODQzQiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPgo8L3N2Zz4K" x="702" y="146" width="396" height="244" preserveAspectRatio="xMidYMid meet" />
+    <g>
+      <rect x="72" y="528" width="74" height="38" rx="19" fill="#0b1220" stroke="#b45309" stroke-width="1.5" opacity="0.95" />
+      <text x="109" y="553" fill="#e2e8f0" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700">SaaS</text>
+    </g>    <g>
+      <rect x="158" y="528" width="74" height="38" rx="19" fill="#0b1220" stroke="#b45309" stroke-width="1.5" opacity="0.95" />
+      <text x="195" y="553" fill="#e2e8f0" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700">Data</text>
+    </g>    <g>
+      <rect x="244" y="528" width="105" height="38" rx="19" fill="#0b1220" stroke="#b45309" stroke-width="1.5" opacity="0.95" />
+      <text x="296" y="553" fill="#e2e8f0" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700">Pricing</text>
+    </g>
+</svg>

@@ -1,0 +1,50 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Football Decision Lab</title>
+  <desc id="desc">ML temporal, MLOps e experimentacao responsavel para pesquisa aplicada.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="55%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#14532d" />
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="25%" r="70%">
+      <stop offset="0%" stop-color="#86efac" stop-opacity="0.24" />
+      <stop offset="100%" stop-color="#86efac" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="675" rx="32" fill="url(#bg)" />
+  <circle cx="980" cy="104" r="180" fill="#86efac" opacity="0.16" />
+  <circle cx="822" cy="374" r="250" fill="#14532d" opacity="0.18" />
+  <rect x="28" y="28" width="1144" height="619" rx="28" fill="none" stroke="#1f2937" stroke-width="2" />
+  <rect x="52" y="52" width="1096" height="571" rx="24" fill="url(#glow)" />
+
+  <text x="72" y="102" fill="#94a3b8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">04 / 06</text>
+  <text x="72" y="188" fill="#ffffff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800">Football Decision Lab</text>
+  <text x="72" y="238" fill="#dbeafe" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="600">Decisao esportiva auditavel</text>
+  <text x="72" y="284" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="500">ML temporal, MLOps e experimentacao responsavel para pesquisa aplicada.</text>
+
+  <rect x="72" y="336" width="164" height="42" rx="21" fill="#0b1220" stroke="#14532d" stroke-width="1.5" />
+  <text x="154" y="363" fill="#f8fafc" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">Featured work</text>
+
+    <rect x="680" y="118" width="448" height="304" rx="28" fill="#020617" opacity="0.82" stroke="#1f2937" />
+    <rect x="708" y="146" width="392" height="248" rx="22" fill="#0b1220" stroke="#14532d" stroke-width="1.5" />
+    <path d="M728 332C772 268 812 242 850 242C888 242 926 272 964 318C994 354 1032 356 1080 310" fill="none" stroke="#86efac" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="782" cy="278" r="18" fill="#86efac" opacity="0.95" />
+    <circle cx="878" cy="246" r="18" fill="#14532d" opacity="0.95" />
+    <circle cx="978" cy="312" r="18" fill="#86efac" opacity="0.95" />
+    <circle cx="1064" cy="286" r="18" fill="#14532d" opacity="0.95" />
+    <text x="734" y="198" fill="#e2e8f0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">decision flow</text>
+    <text x="734" y="224" fill="#94a3b8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="500">auditable, temporal and operational</text>
+    <path d="M734 360H1066" stroke="#1f2937" stroke-width="1.5" />
+    <path d="M734 372H1022" stroke="#1f2937" stroke-width="1.5" />
+    <g>
+      <rect x="72" y="528" width="74" height="38" rx="19" fill="#0b1220" stroke="#14532d" stroke-width="1.5" opacity="0.95" />
+      <text x="109" y="553" fill="#e2e8f0" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700">ML</text>
+    </g>    <g>
+      <rect x="158" y="528" width="83" height="38" rx="19" fill="#0b1220" stroke="#14532d" stroke-width="1.5" opacity="0.95" />
+      <text x="200" y="553" fill="#e2e8f0" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700">MLOps</text>
+    </g>    <g>
+      <rect x="253" y="528" width="116" height="38" rx="19" fill="#0b1220" stroke="#14532d" stroke-width="1.5" opacity="0.95" />
+      <text x="311" y="553" fill="#e2e8f0" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700">Research</text>
+    </g>
+</svg>
