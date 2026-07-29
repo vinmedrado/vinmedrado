@@ -86,6 +86,12 @@ Construo produtos e automacoes que reduzem friccao operacional e deixam a tomada
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,postgres,docker,git,github" alt="Tecnologias" />
 </div>
 
+## Snake
+
+<div align="center">
+  <img alt="Github contribution snake" src="https://raw.githubusercontent.com/vinmedrado/vinmedrado/output/github-contribution-grid-snake.svg" />
+</div>
+
 ## Contato
 
 <div align="center">
