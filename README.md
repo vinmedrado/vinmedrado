@@ -18,7 +18,7 @@
 
 ## Perfil
 
-Sou engenheiro de software com foco em dados, automacao e produtos SaaS. Trabalho entre processo, backend e experiencia visual para transformar operacoes manuais em sistemas mais confiaveis e escalaveis.
+Sou engenheiro de software focado em produtos de dados, automacao e SaaS. Trabalho entre backend, dados e interface para transformar processos manuais em sistemas claros, confiaveis e escalaveis.
 
 - Python, FastAPI, React, TypeScript e SQL
 - Produtos SaaS, dashboards e fluxos operacionais
@@ -31,25 +31,18 @@ Sou engenheiro de software com foco em dados, automacao e produtos SaaS. Trabalh
 - MSX International
 - Projeto Stellantis
 
-## Diferenciais
+## O que aparece nos projetos
 
 - Desenho sistemas que unem operacao, dados e produto.
 - Mantenho foco em clareza visual, estrutura e manutencao.
 - Traduzo problemas reais em fluxos executaveis.
 - Escrevo codigo e documentacao para uso real, nao para efeito visual.
 
-## Metricas do perfil
+## Metricas verificadas
 
-| Indicador | Status |
-| --- | --- |
-| Projetos publicados | 6 |
-| Tecnologias dominadas | 8 |
-| Produtos SaaS | TODO |
-| Automacoes desenvolvidas | TODO |
-| APIs | TODO |
-| Dashboards | TODO |
-| Machine Learning | TODO |
-| IA | TODO |
+- Projetos publicados: 6
+- Tecnologias dominadas: 8
+- Demais metricas de produto, automacao, APIs, dashboards, ML e IA: TODO
 
 ## Trabalhos selecionados
 
@@ -109,7 +102,7 @@ Sou engenheiro de software com foco em dados, automacao e produtos SaaS. Trabalh
   </tr>
 </table>
 
-## Demonstracoes
+## Demonstracoes de produto
 
 <table>
   <tr>
