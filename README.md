@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Vinicius Medrado - portfolio" />
+<img src="assets/hero.svg" width="100%" alt="Vinicius Medrado portfolio" />
 
 <p><strong>Produtos digitais com dados, automacao e IA.</strong></p>
 
@@ -21,8 +21,8 @@
 Construo produtos que saem do conceito e entram em operacao.
 
 - Full-stack com Python, FastAPI, React e SQL
-- Automacao de processos, integrações e pipelines
-- IA aplicada a decisao, pricing e operação
+- Automacao de processos, integracoes e pipelines
+- IA aplicada a decisao, pricing e operacao
 - Produtos SaaS com foco em clareza, utilidade e acabamento
 
 ## Projetos em destaque
@@ -31,7 +31,7 @@ Construo produtos que saem do conceito e entram em operacao.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/vinmedrado/marketplace-seller-platform">
-        <img src="assets/covers/marketplace-seller-platform.svg" alt="Marketplace Seller Platform" width="100%" />
+        <img src="https://raw.githubusercontent.com/vinmedrado/marketplace-seller-platform/main/portfolio/public/linkedin-card.png" alt="Marketplace Seller Platform" width="100%" />
       </a>
       <br />
       <strong><a href="https://github.com/vinmedrado/marketplace-seller-platform">Marketplace Seller Platform</a></strong><br />
@@ -39,7 +39,7 @@ Construo produtos que saem do conceito e entram em operacao.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/vinmedrado/applymize">
-        <img src="assets/covers/applymize.svg" alt="Applymize" width="100%" />
+        <img src="https://raw.githubusercontent.com/vinmedrado/applymize/main/docs/branding/applymize_brand_board.png" alt="Applymize" width="100%" />
       </a>
       <br />
       <strong><a href="https://github.com/vinmedrado/applymize">Applymize</a></strong><br />
@@ -49,7 +49,7 @@ Construo produtos que saem do conceito e entram em operacao.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/vinmedrado/Lumyra">
-        <img src="assets/covers/lumyra.svg" alt="Lumyra" width="100%" />
+        <img src="https://raw.githubusercontent.com/vinmedrado/Lumyra/main/frontend_web/src/assets/branding/lumyra-brand-board.jpg" alt="Lumyra" width="100%" />
       </a>
       <br />
       <strong><a href="https://github.com/vinmedrado/Lumyra">Lumyra</a></strong><br />
@@ -67,7 +67,7 @@ Construo produtos que saem do conceito e entram em operacao.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/vinmedrado/vinance">
-        <img src="assets/covers/vinance.svg" alt="Vinance" width="100%" />
+        <img src="https://raw.githubusercontent.com/vinmedrado/vinance/main/frontend/src/assets/brand/vinance-logo-original.png" alt="Vinance" width="100%" />
       </a>
       <br />
       <strong><a href="https://github.com/vinmedrado/vinance">Vinance</a></strong><br />
@@ -75,7 +75,7 @@ Construo produtos que saem do conceito e entram em operacao.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/vinmedrado/meu-carro-vale">
-        <img src="assets/covers/meu-carro-vale.svg" alt="Meu Carro Vale" width="100%" />
+        <img src="https://raw.githubusercontent.com/vinmedrado/meu-carro-vale/main/frontend/public/brand/logo-meu-carro-vale.svg" alt="Meu Carro Vale" width="100%" />
       </a>
       <br />
       <strong><a href="https://github.com/vinmedrado/meu-carro-vale">Meu Carro Vale</a></strong><br />
