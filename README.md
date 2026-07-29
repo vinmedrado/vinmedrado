@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" width="100%" alt="Vinicius Medrado portfolio" />
 
-<p><strong>Produtos digitais com dados, automacao e IA.</strong></p>
+<p><strong>Data, automacao e IA aplicadas a produtos digitais.</strong></p>
 
 <a href="https://www.linkedin.com/in/viniciusmedrado">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,12 +18,38 @@
 
 ## Perfil
 
-Construo produtos e automacoes que reduzem friccao operacional e deixam a tomada de decisao mais clara.
+Sou engenheiro de software com foco em dados, automacao e produtos SaaS. Trabalho entre processo, backend e experiencia visual para transformar operacoes manuais em sistemas mais confiaveis e escalaveis.
 
-- Engenharia full-stack com Python, FastAPI, React e SQL
-- Produtos SaaS, paines e fluxos operacionais
-- IA aplicada a precificacao, analise e matching
-- Execucao orientada a resultado, acabamento e consistencia visual
+- Python, FastAPI, React, TypeScript e SQL
+- Produtos SaaS, dashboards e fluxos operacionais
+- Integracoes com APIs, ETL e automacoes
+- Machine Learning e IA aplicados a decisao, priorizacao e analise
+
+## Atualmente
+
+- PL Data Analyst
+- MSX International
+- Projeto Stellantis
+
+## Diferenciais
+
+- Desenho sistemas que unem operacao, dados e produto.
+- Mantenho foco em clareza visual, estrutura e manutencao.
+- Traduzo problemas reais em fluxos executaveis.
+- Escrevo codigo e documentacao para uso real, nao para efeito visual.
+
+## Metricas do perfil
+
+| Indicador | Status |
+| --- | --- |
+| Projetos publicados | 6 |
+| Tecnologias dominadas | 8 |
+| Produtos SaaS | TODO |
+| Automacoes desenvolvidas | TODO |
+| APIs | TODO |
+| Dashboards | TODO |
+| Machine Learning | TODO |
+| IA | TODO |
 
 ## Trabalhos selecionados
 
@@ -35,7 +61,7 @@ Construo produtos e automacoes que reduzem friccao operacional e deixam a tomada
       </a>
       <br />
       <strong>Marketplace Seller Platform</strong><br />
-      Plataforma de inteligencia comercial para vendedores, com precificacao, dados e ML.
+      Inteligencia comercial para vendedores, com precificacao, dados e ML.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/vinmedrado/applymize">
@@ -43,7 +69,7 @@ Construo produtos e automacoes que reduzem friccao operacional e deixam a tomada
       </a>
       <br />
       <strong>Applymize</strong><br />
-      Experiencia de carreira e vagas com automacao de ATS e foco em conversao.
+      Carreira, vagas e automacao de ATS em uma experiencia interativa.
     </td>
   </tr>
   <tr>
@@ -61,7 +87,7 @@ Construo produtos e automacoes que reduzem friccao operacional e deixam a tomada
       </a>
       <br />
       <strong>Vinance</strong><br />
-      Sistema financeiro com IA para orcamento, ERP e acompanhamento de investimentos.
+      Sistema financeiro com IA para orcamento, ERP e investimentos.
     </td>
   </tr>
 </table>
@@ -86,8 +112,12 @@ Construo produtos e automacoes que reduzem friccao operacional e deixam a tomada
 ## Capacidade tecnica
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,postgres,docker,git,github" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,postgres,powerbi,docker,git" alt="Tecnologias" />
 </div>
+
+## SEO / Keywords
+
+Python | FastAPI | React | TypeScript | Power BI | Data Engineering | Automation | Machine Learning | Artificial Intelligence | SQL | PostgreSQL | Docker
 
 ## Contato
 
