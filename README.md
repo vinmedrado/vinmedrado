@@ -10,22 +10,19 @@
 <a href="mailto:medrado.jobs@gmail.com">
   <img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
-<a href="https://github.com/vinmedrado?tab=repositories">
-  <img src="https://img.shields.io/badge/Projetos-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Projetos" />
-</a>
 
 </div>
 
-## Sobre mim
+## Perfil
 
-Construo produtos que saem do conceito e entram em operacao.
+Construo produtos e automacoes que reduzem friccao operacional e deixam a tomada de decisao mais clara.
 
-- Full-stack com Python, FastAPI, React e SQL
-- Automacao de processos, integracoes e pipelines
-- IA aplicada a decisao, pricing e operacao
-- Produtos SaaS com foco em clareza, utilidade e acabamento
+- Engenharia full-stack com Python, FastAPI, React e SQL
+- Produtos SaaS, paines e fluxos operacionais
+- IA aplicada a precificacao, analise e matching
+- Execucao orientada a resultado, acabamento e consistencia visual
 
-## Projetos em destaque
+## Trabalhos selecionados
 
 <table>
   <tr>
@@ -33,11 +30,17 @@ Construo produtos que saem do conceito e entram em operacao.
       <a href="https://github.com/vinmedrado/marketplace-seller-platform">
         <img src="assets/cards/marketplace-seller-platform.svg" alt="Marketplace Seller Platform" width="100%" />
       </a>
+      <br />
+      <strong>Marketplace Seller Platform</strong><br />
+      Plataforma de inteligencia comercial para vendedores, com precificacao, dados e ML.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/vinmedrado/applymize">
         <img src="assets/cards/applymize.svg" alt="Applymize" width="100%" />
       </a>
+      <br />
+      <strong>Applymize</strong><br />
+      Experiencia de carreira e vagas com automacao de ATS e foco em conversao.
     </td>
   </tr>
   <tr>
@@ -45,17 +48,28 @@ Construo produtos que saem do conceito e entram em operacao.
       <a href="https://github.com/vinmedrado/Lumyra">
         <img src="assets/cards/lumyra.svg" alt="Lumyra" width="100%" />
       </a>
+      <br />
+      <strong>Lumyra</strong><br />
+      Operacao moderna de eventos com realtime, paineis e automacoes.
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/vinmedrado/football-decision-lab">
-        <img src="assets/cards/football-decision-lab.svg" alt="Football Decision Lab" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/vinmedrado/vinance">
         <img src="assets/cards/vinance.svg" alt="Vinance" width="100%" />
+      </a>
+      <br />
+      <strong>Vinance</strong><br />
+      Sistema financeiro com IA para orcamento, ERP e acompanhamento de investimentos.
+    </td>
+  </tr>
+</table>
+
+## Outros trabalhos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vinmedrado/football-decision-lab">
+        <img src="assets/cards/football-decision-lab.svg" alt="Football Decision Lab" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -66,21 +80,16 @@ Construo produtos que saem do conceito e entram em operacao.
   </tr>
 </table>
 
-## Stack
+## Capacidade tecnica
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,postgres,mysql,sqlite,docker,git,github,html,css,js" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,postgres,docker,git,github" alt="Tecnologias" />
 </div>
 
-## GitHub
+## Contato
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinmedrado&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinmedrado&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-
-_Ideias viram produto quando visual, dados e execucao trabalham juntos._
-
+  <a href="https://www.linkedin.com/in/viniciusmedrado">LinkedIn</a> |
+  <a href="mailto:medrado.jobs@gmail.com">E-mail</a> |
+  <a href="https://github.com/vinmedrado?tab=repositories">Repositorios</a>
 </div>

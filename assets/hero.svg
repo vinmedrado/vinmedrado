@@ -1,38 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
   <title id="title">Vinicius Medrado</title>
-  <desc id="desc">Portfolio hero banner.</desc>
+  <desc id="desc">Executive portfolio banner.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="52%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#1d4ed8"/>
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="58%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#334155"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.9"/>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#cbd5e1" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#94a3b8" stop-opacity="0.9"/>
     </linearGradient>
   </defs>
   <rect width="1600" height="500" rx="36" fill="url(#bg)" />
-  <circle cx="1320" cy="104" r="170" fill="#8b5cf6" opacity="0.18" />
-  <circle cx="1140" cy="338" r="240" fill="#38bdf8" opacity="0.14" />
-  <path d="M0 364C290 278 470 248 650 256C844 265 1010 352 1200 346C1368 341 1482 302 1600 252V500H0Z" fill="#020617" opacity="0.42" />
+  <circle cx="1320" cy="110" r="170" fill="#94a3b8" opacity="0.10" />
+  <circle cx="1120" cy="345" r="230" fill="#64748b" opacity="0.10" />
+  <path d="M0 372C288 286 464 256 652 266C842 277 1006 352 1200 348C1366 344 1486 310 1600 260V500H0Z" fill="#020617" opacity="0.46" />
 
-  <text x="88" y="116" fill="#94a3b8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="6">PORTFOLIO</text>
-  <text x="88" y="214" fill="#ffffff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="74" font-weight="800">Vinicius Medrado</text>
-  <text x="88" y="280" fill="#e2e8f0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="30" font-weight="500">Dados, automacao e IA para produtos digitais mais claros e mais fortes.</text>
+  <text x="88" y="112" fill="#94a3b8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="5">EXECUTIVE PORTFOLIO</text>
+  <text x="88" y="206" fill="#ffffff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="76" font-weight="800">Vinicius Medrado</text>
+  <text x="88" y="272" fill="#e2e8f0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="29" font-weight="500">Dados, automacao e IA para produtos digitais com padrao de execucao.</text>
 
-  <rect x="88" y="338" width="160" height="52" rx="26" fill="#0f172a" stroke="url(#glow)" stroke-width="2" />
-  <text x="168" y="371" fill="#f8fafc" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" font-weight="700">Dados</text>
+  <rect x="88" y="334" width="152" height="50" rx="25" fill="#0f172a" stroke="url(#line)" stroke-width="1.5" />
+  <text x="164" y="366" fill="#f8fafc" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">Strategy</text>
 
-  <rect x="260" y="338" width="190" height="52" rx="26" fill="#0f172a" stroke="url(#glow)" stroke-width="2" />
-  <text x="355" y="371" fill="#f8fafc" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" font-weight="700">Automacao</text>
+  <rect x="250" y="334" width="176" height="50" rx="25" fill="#0f172a" stroke="url(#line)" stroke-width="1.5" />
+  <text x="338" y="366" fill="#f8fafc" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">Engineering</text>
 
-  <rect x="462" y="338" width="108" height="52" rx="26" fill="#0f172a" stroke="url(#glow)" stroke-width="2" />
-  <text x="516" y="371" fill="#f8fafc" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" font-weight="700">IA</text>
+  <rect x="438" y="334" width="132" height="50" rx="25" fill="#0f172a" stroke="url(#line)" stroke-width="1.5" />
+  <text x="504" y="366" fill="#f8fafc" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">Delivery</text>
 
-  <rect x="1114" y="116" width="340" height="174" rx="28" fill="#020617" opacity="0.62" stroke="#334155" />
-  <text x="1144" y="160" fill="#93c5fd" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">FOCO</text>
-  <text x="1144" y="214" fill="#ffffff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="40" font-weight="800">Interfaces</text>
-  <text x="1144" y="252" fill="#ffffff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="40" font-weight="800">que vendem</text>
-  <text x="1144" y="286" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="500">Produto, marca e operacao em um unico nivel.</text>
+  <rect x="1114" y="118" width="340" height="164" rx="28" fill="#020617" opacity="0.62" stroke="#334155" />
+  <text x="1144" y="160" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">FOCUS</text>
+  <text x="1144" y="212" fill="#ffffff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="38" font-weight="800">Systems that</text>
+  <text x="1144" y="248" fill="#ffffff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="38" font-weight="800">look finished</text>
+  <text x="1144" y="284" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="500">Clareza visual, consistencia e uso real.</text>
 </svg>
