@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:1D4ED8,100:7C3AED&text=VINICIUS%20MEDRADO&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Dados%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20IA%20%C2%B7%20Produtos%20digitais&descAlignY=56&descSize=16" />
+<img src="assets/hero.svg" width="100%" alt="Vinicius Medrado - portfolio" />
 
-### Transformo processos e dados em produtos práticos, inteligentes e escaláveis.
+<p><strong>Produtos digitais com dados, automacao e IA.</strong></p>
 
 <a href="https://www.linkedin.com/in/viniciusmedrado">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -10,63 +10,95 @@
 <a href="mailto:medrado.jobs@gmail.com">
   <img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=vinmedrado&color=38BDF8&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Visualizações do perfil" />
+<a href="https://github.com/vinmedrado?tab=repositories">
+  <img src="https://img.shields.io/badge/Projetos-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Projetos" />
+</a>
 
 </div>
 
 ## Sobre mim
 
-Sou desenvolvedor focado em automação, engenharia de dados e aplicações com IA. Gosto de resolver problemas reais de negócio: integrar fontes, organizar operações e transformar análises complexas em ferramentas que as pessoas realmente conseguem usar.
+Construo produtos que saem do conceito e entram em operacao.
 
-- Sistemas full-stack com Python, FastAPI, React e SQL
-- Pipelines de dados, automações e integrações com APIs
-- Machine Learning aplicado a decisão, precificação e previsão
-- Produtos SaaS com atenção a privacidade, usabilidade e operação
+- Full-stack com Python, FastAPI, React e SQL
+- Automacao de processos, integrações e pipelines
+- IA aplicada a decisao, pricing e operação
+- Produtos SaaS com foco em clareza, utilidade e acabamento
 
 ## Projetos em destaque
 
-| Projeto | O que constrói | Tecnologias |
-| --- | --- | --- |
-| [Marketplace Seller Platform](https://github.com/vinmedrado/marketplace-seller-platform) | Plataforma full-stack de inteligência para vendedores: preços, dados, ML e privacidade desde o início. | React · FastAPI · ML |
-| [Applymize](https://github.com/vinmedrado/applymize) | Plataforma de carreira com vagas, matching, recursos de ATS e automações em uma demo interativa. | Full-stack · Automação |
-| [Lumyra](https://github.com/vinmedrado/Lumyra) | Operação moderna de eventos, com gestão em tempo real, painéis administrativos e automações. | React · TypeScript · FastAPI |
-| [Football Decision Lab](https://github.com/vinmedrado/football-decision-lab) | Laboratório auditável de decisão esportiva com ML temporal, MLOps, paper trading e experimentação responsável. | Python · ML · MLOps |
-| [Vinance](https://github.com/vinmedrado/vinance) | Sistema operacional financeiro com IA: orçamento, investimentos, ERP e copiloto inteligente. | IA · Analytics · SQL |
-| [Meu Carro Vale](https://github.com/vinmedrado/meu-carro-vale) | SaaS de valuation automotivo com catálogo FIPE atualizado, busca inteligente e precificação. | SaaS · Dados · IA |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vinmedrado/marketplace-seller-platform">
+        <img src="assets/covers/marketplace-seller-platform.svg" alt="Marketplace Seller Platform" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://github.com/vinmedrado/marketplace-seller-platform">Marketplace Seller Platform</a></strong><br />
+      Inteligencia comercial para vendedores, com precificacao, dados e ML.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vinmedrado/applymize">
+        <img src="assets/covers/applymize.svg" alt="Applymize" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://github.com/vinmedrado/applymize">Applymize</a></strong><br />
+      Carreira, vagas e automacao de ATS em uma experiencia interativa.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vinmedrado/Lumyra">
+        <img src="assets/covers/lumyra.svg" alt="Lumyra" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://github.com/vinmedrado/Lumyra">Lumyra</a></strong><br />
+      Operacao moderna de eventos com realtime, paineis e automacoes.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vinmedrado/football-decision-lab">
+        <img src="assets/covers/football-decision-lab.svg" alt="Football Decision Lab" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://github.com/vinmedrado/football-decision-lab">Football Decision Lab</a></strong><br />
+      Sistema auditavel de decisao esportiva com ML temporal e MLOps.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vinmedrado/vinance">
+        <img src="assets/covers/vinance.svg" alt="Vinance" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://github.com/vinmedrado/vinance">Vinance</a></strong><br />
+      Copiloto financeiro com IA para orcamento, ERP e investimentos.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vinmedrado/meu-carro-vale">
+        <img src="assets/covers/meu-carro-vale.svg" alt="Meu Carro Vale" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://github.com/vinmedrado/meu-carro-vale">Meu Carro Vale</a></strong><br />
+      Valuation automotivo com dados, busca inteligente e precificacao.
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="https://github.com/vinmedrado?tab=repositories">
-    <img src="https://img.shields.io/badge/VER+TODOS+OS+PROJETOS-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Ver todos os projetos" />
-  </a>
-</div>
-
-## Tecnologias
+## Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,postgres,mysql,sqlite,docker,git,github,html,css,js" alt="Tecnologias" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22C55E" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=60A5FA" alt="SQL" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
 </div>
 
-## Atividade no GitHub
+## GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinmedrado&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinmedrado&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinmedrado&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinmedrado&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=A78BFA&point=FFFFFF" alt="Gráfico de contribuições" />
 </div>
-
----
 
 <div align="center">
 
-_Ideias viram produtos quando dados, automação e execução trabalham juntos._
+_Ideias viram produto quando visual, dados e execucao trabalham juntos._
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:1D4ED8,100:7C3AED&animation=twinkling" />
