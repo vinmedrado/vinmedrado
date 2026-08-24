@@ -18,7 +18,7 @@
 
 ## Perfil
 
-Sou engenheiro de software focado em produtos de dados, automacao e SaaS. Trabalho entre backend, dados e interface para transformar processos manuais em sistemas claros, confiaveis e escalaveis.
+Focado em produtos de dados, automacao e SaaS. Trabalho entre backend, dados e interface para transformar processos manuais em sistemas claros, confiaveis e escalaveis.
 
 - Python, FastAPI, React, TypeScript e SQL
 - Produtos SaaS, dashboards e fluxos operacionais
