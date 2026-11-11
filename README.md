@@ -35,7 +35,7 @@ A full-stack marketplace operations project covering product management, pricing
 - **Engineering:** layered services, data pipelines, schema migrations and explainable pricing with rule-based fallback.
 - **Reliability:** CI covers backend tests, migrations, privacy checks, and frontend builds.
 - **Security boundary:** authenticated, tenant-scoped product operations; public demo is isolated from production credentials.
-- [Live demo](https://vinmedrado.github.io/marketplace-seller-platform/) · [Source and documentation](https://github.com/vinmedrado/marketplace-seller-platform) · [CI](https://github.com/vinmedrado/marketplace-seller-platform/actions/workflows/ci.yml)
+- [Live demo](https://vinmedrado.github.io/marketplace-seller-platform/) · [Case study (EN/ES)](https://github.com/vinmedrado/marketplace-seller-platform/blob/main/docs/RECRUITER_CASE_STUDY.md) · [Source](https://github.com/vinmedrado/marketplace-seller-platform) · [CI](https://github.com/vinmedrado/marketplace-seller-platform/actions/workflows/ci.yml)
 
 ### 02 · [Vinance](https://github.com/vinmedrado/vinance) — Financial operations and analytics
 
@@ -46,7 +46,7 @@ A modular financial application combining financial records, budgeting, investme
 - **Engineering:** API and domain modules, asynchronous jobs, data services and analytical workflows.
 - **Architecture:** React/Vite is the primary frontend; Streamlit is retained for legacy administration.
 - **Validation:** backend tests, frontend build and Docker Compose configuration checks run in CI.
-- [Source and documentation](https://github.com/vinmedrado/vinance) · [CI](https://github.com/vinmedrado/vinance/actions/workflows/ci.yml)
+- [Case study (EN/ES)](https://github.com/vinmedrado/vinance/blob/main/docs/RECRUITER_CASE_STUDY.md) · [Source](https://github.com/vinmedrado/vinance) · [CI](https://github.com/vinmedrado/vinance/actions/workflows/ci.yml)
 
 ### 03 · [Meu Carro Vale](https://github.com/vinmedrado/meu-carro-vale) — Vehicle valuation and market data
 
@@ -57,7 +57,7 @@ An automotive valuation project combining FIPE reference data, available market 
 - **Engineering:** frontend, backend and data-engine in separate modules, with data-source fallback.
 - **Validation:** backend, data-engine and frontend CI passed; browser smoke checks covered demonstration navigation and reporting on desktop and mobile.
 - **Important:** the public demonstration uses illustrative values and is **not** a live valuation quote.
-- [Live demo](https://vinmedrado.github.io/meu-carro-vale/) · [Source and documentation](https://github.com/vinmedrado/meu-carro-vale) · [CI](https://github.com/vinmedrado/meu-carro-vale/actions/workflows/ci.yml)
+- [Live demo](https://vinmedrado.github.io/meu-carro-vale/) · [Case study (EN/ES)](https://github.com/vinmedrado/meu-carro-vale/blob/main/docs/RECRUITER_CASE_STUDY.md) · [Source](https://github.com/vinmedrado/meu-carro-vale) · [CI](https://github.com/vinmedrado/meu-carro-vale/actions/workflows/ci.yml)
 
 ### 04 · Pilar — Language-learning PWA *(private repository)*
 
