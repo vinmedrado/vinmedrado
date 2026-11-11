@@ -69,6 +69,21 @@ A progressive Spanish/English learning application with independent learning pat
 - **Validation:** 62 automated Vitest cases plus domain/content suites, TypeScript checks, production build and browser-based offline/mobile smoke checks.
 - **Source is private.** [Read the public technical case study (EN/ES)](docs/PILAR_CASE_STUDY.md); it does not expose the repository or student data.
 
+## More public engineering projects
+
+These projects complement the data-engineering portfolio with automation, applied ML and full-stack delivery. Their README files explain the scope and setup; **their inclusion is not a claim of recent CI or production security validation**.
+
+| Project | Engineering focus | Explore |
+|---|---|---|
+| **Football Decision Lab** | Python data pipelines, temporal validation, feature engineering, ML backtesting and paper-only experiment tracking | [Source](https://github.com/vinmedrado/football-decision-lab) · [Demo](https://football-decision-lab.netlify.app) |
+| **FreelanceBot AI** | Python/Flask workflow automation, opportunity triage, relevance scoring and human-reviewed proposal preparation | [Source](https://github.com/vinmedrado/freelance-bot) · [Demo](https://vinmedrado.github.io/freelance-bot/demo.html) |
+| **Applymize** | Career intelligence and ATS-oriented workflows with FastAPI, React, TypeScript and PostgreSQL | [Source](https://github.com/vinmedrado/applymize) · [Demo](https://applymize.netlify.app) |
+| **Lumyra** | Event operations platform with FastAPI, React, TypeScript, workflow automation and real-time features | [Source](https://github.com/vinmedrado/Lumyra) · [Demo](https://lumyra-events.netlify.app) |
+
+The full collection is available in [all public repositories](https://github.com/vinmedrado?tab=repositories). Private infrastructure and personal apps are intentionally not listed with sensitive implementation details.
+
+---
+
 ## How I approach engineering
 
 - **Data quality:** validate inputs and outputs before publishing reports or downstream datasets.
@@ -93,6 +108,8 @@ En mi experiencia profesional, automaticé un proceso diario de informes NPS, re
 - **[Vinance](https://github.com/vinmedrado/vinance):** plataforma financiera con API, procesos asíncronos y análisis de datos.
 - **[Meu Carro Vale](https://github.com/vinmedrado/meu-carro-vale):** valoración de vehículos con referencias FIPE, datos de mercado e informes PDF.
 - **Pilar (repositorio privado):** aplicación PWA para aprender español e inglés con repaso espaciado y funcionamiento sin conexión.
+
+**Otros proyectos públicos:** [Football Decision Lab](https://github.com/vinmedrado/football-decision-lab) (pipelines de datos, ML y MLOps), [FreelanceBot AI](https://github.com/vinmedrado/freelance-bot) (automatización Python y propuestas), [Applymize](https://github.com/vinmedrado/applymize) (plataforma de empleo y análisis ATS) y [Lumyra](https://github.com/vinmedrado/Lumyra) (SaaS de eventos y operaciones en tiempo real).
 
 Mi objetivo profesional es seguir creciendo en **datos, automatización e ingeniería de datos** en equipos internacionales.
 
