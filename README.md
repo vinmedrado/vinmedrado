@@ -67,7 +67,7 @@ A progressive Spanish/English learning application with independent learning pat
 
 - **Engineering:** local persistence and optional cloud synchronization, authenticated data access and server-side AI integrations.
 - **Validation:** 62 automated Vitest cases plus domain/content suites, TypeScript checks, production build and browser-based offline/mobile smoke checks.
-- **Source is private.** This high-level case study does not provide access to the repository or student data.
+- **Source is private.** [Read the public technical case study (EN/ES)](docs/PILAR_CASE_STUDY.md); it does not expose the repository or student data.
 
 ## How I approach engineering
 
