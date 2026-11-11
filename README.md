@@ -10,7 +10,7 @@
 <a href="https://vinmedrado.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
-<a href="mailto:medrado.jobs@gmail.com">
+<a href="mailto:vinicius.medrado@outlook.com">
   <img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 
@@ -133,7 +133,7 @@ Python | FastAPI | React | TypeScript | Power BI | Data Engineering | Automation
 
 <div align="center">
   <a href="https://www.linkedin.com/in/viniciusmedrado">LinkedIn</a> |
-  <a href="mailto:medrado.jobs@gmail.com">E-mail</a> |
+  <a href="mailto:vinicius.medrado@outlook.com">E-mail</a> |
   <a href="https://github.com/vinmedrado?tab=repositories">Repositorios</a>
 </div>
 
